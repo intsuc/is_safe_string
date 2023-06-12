@@ -34,7 +34,7 @@ fun main() {
         functions = listOf(
           LootTable.Function(
             function = "set_nbt",
-            tag = "{u+000a: '\r', u+000d: '\n'}"
+            tag = "{u+000a: '\n', u+000d: '\r'}"
           )
         ),
         pools = listOf(
