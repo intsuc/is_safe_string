@@ -1,0 +1,20 @@
+{
+  "type": "command",
+  "functions": [
+    {
+      "function": "set_nbt",
+      "tag": "{u+000a: '\r', u+000d: '\n'}"
+    }
+  ],
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "item",
+          "name": "stone"
+        }
+      ],
+      "rolls": 1
+    }
+  ]
+}
